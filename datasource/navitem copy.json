@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Contacts",
+    "icon": "icon-user-plus",
+    "sub": {
+      "title": {
+        "Supplier": "Suppliers.php",
+        "Coustomers": "coustomers.php",
+        "Coustomers Group": "coustomers.php",
+        "Import Contacts": "importcontacts.php"
+      }
+    }
+  }
+  
+]
